@@ -1,0 +1,7 @@
+print("i am duc")
+print("i am duc")
+print("i am duc")
+print("i am duc")
+print("i am duc")
+print("i am duc")
+print("i am duc")
